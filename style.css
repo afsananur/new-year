@@ -1,0 +1,210 @@
+*{
+    
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+}
+.banner{
+  
+    background-image: url(banner/banner3.png);
+    width: 1600px;
+    height: 800px;
+    text-align: right;
+    background-position: bottom right;
+    
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    padding-top: 200px ;
+    padding-left:900px;
+    padding-right: 200px;
+    color: #FFFFFF;
+   
+   
+    
+}
+.banner-sub-title{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 24px 200px 0 900px;
+    
+}
+.btn-primary{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    border-radius: 5px;
+    margin:10px 200px;
+    margin-left: 64px;
+    
+}
+/* main section  */
+.failures{
+   padding-top: 71px ;
+   padding-left: 208px ;
+    display: flex;
+    height: 723.3px;
+
+
+}
+.section-title{
+    
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+     padding: 210px 300px 15px 87px ;
+
+}
+.section-descriptions {
+   margin-left: 87px;
+   margin-right: 200px;
+    color: #444343; 
+    font-weight: 400;
+    font-size: 16px;
+}
+ul{
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+margin-left: 80px;
+
+}
+
+/*resource*/
+
+.resource{
+    display: flex;
+    height: 400px;
+    width: 1000px;
+    padding-left: 250px;
+    padding-top: 50px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 90px;
+    
+}
+
+.resource-description{
+    color: #737272;
+  text-align: left;
+  font-weight: 400;
+  font-size: 16px; 
+  margin-top: 25px;
+
+ 
+
+}
+
+/* plans*/
+ 
+.my-plan{
+    padding: 100px 200px 100px 250px ;
+
+    
+}
+.image{
+    padding-left: 20px;
+}
+.skill-container{
+    display: flex;
+    text-align: center;
+    width: 1200px;
+    height: 202.96px;
+    justify-content: space-between;
+    
+}
+
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    line-height: 50px;
+    margin-bottom: 24px;
+}
+.skills{
+   width: 300px;
+   
+   
+}
+.skill-description{
+    font-weight: 500;
+    font-size: 15px;
+   
+    color: #737272;
+
+}
+
+
+ /*positivr minset*/
+.positive{
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(watch.png);
+    width: 1140px;
+height: 300px;
+margin-left: 220px;
+border-radius: 8px;
+margin-bottom: 120px;
+
+   
+}
+.title{
+    font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+padding: 60px 600px 24px 64px;
+}
+
+/*future*/
+
+.future{
+    display: flex;
+    background-color: #151414;
+    width: 1400px;
+    height: 450px;
+    padding-top: 130px;
+    padding-left: 200px;
+}
+.fu-title{
+    font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+margin-bottom: 16px;
+
+}
+
+.fu-description{
+    font-weight: 400;
+    font-size: 16px;  
+    color: #FFFFFF;
+    margin-bottom: 16px ;
+    margin-right: 300px;
+}
+a{
+  padding-top: 32px;
+}
+.subscribe{
+    font-weight: 600;
+font-size: 25px;
+color: #FFFFFF;
+margin-bottom: 31px;
+}
+
+input{
+    width: 300px;
+height: 64px;
+margin-right: 200px;
+padding-left: 20px;
+border-radius: 8px;
+
+}
+
+.future .btn-primary{
+    background: #005FAC;
+    margin-left: 0px;
+    color: #FFFFFF;
+
+}
